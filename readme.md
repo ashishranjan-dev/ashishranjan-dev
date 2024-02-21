@@ -29,18 +29,16 @@
 
 Let's weave magic through code and bring our ideas to life in the digital realm!
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=rohittiwari-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=ashishranjan-dev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/_dev24_tiwari_" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="Linkedin" />
+<a href="https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>
-<a href="https://leetcode.com/_dev24_tiwari_" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?&logo=LeetCode&logoColor=black" alt="leetCode" />
 </a>
-<a href="https://twitter.com/dev24_tiwari" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white" alt="leetCode" />
+<a href="https://twitter.com/Ashishranjandev" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white" alt="leetCode" />
 </a>
-<a href="https://www.hackerrank.com/_dev24_tiwari_" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="_dev24_tiwari_" /></a>
-<a href="mailto:tigertiwari1023@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email:Rohit Tiwari" /></a>
+<a href="mailto:ashishranjanjaiswal5@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email:Rohit Tiwari" /></a>
 </p>
 
 <h3 align="left">Tools and Libraries:</h3>
@@ -79,12 +77,11 @@ Let's weave magic through code and bring our ideas to life in the digital realm!
 ![json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </p>
@@ -95,11 +92,7 @@ Let's weave magic through code and bring our ideas to life in the digital realm!
 ![net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![dajango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![angular](https://img.shields.io/badge/Angular-CB3837?style=for-the-badge&logo=angular&logoColor=white) ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 </p>
